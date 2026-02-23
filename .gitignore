@@ -1,0 +1,41 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# User defined
+atcoder
+library
+library_common
+tools
+tests
+results
+results_*
+out
+main
+*.pt
+*.inc
+*.zip
+*.ckpt
+**/**/artifacts/
+wandb/
+
+# exp001 submission artifacts (generated)
+exps/exp001/submit/Main.cpp
+exps/exp001/submit/model_ts_base64.inc
+exps/exp001/submit/solver
+exps/exp001/submit_dw/
+exps/exp001/submit_*/
+out_dw
+out_tta
+
+# exp002 submission artifacts (generated)
+exps/exp002/submit/Main.cpp
+exps/exp002/submit/solver
+exps/exp002/submit_*/

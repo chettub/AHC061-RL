@@ -7,6 +7,9 @@
 - 実験手順の詳細: `exps/exp002/README.md`
 - 振り返り記事: [BLOG_ja.md](BLOG_ja.md)
 
+## ビジュアライザ
+![seed0_gif](assets/seed0.gif)
+
 ## 学習方法（`exps/exp002` の `train_ppo`）
 
 `train_ppo` は次のコマンドで実行します。
